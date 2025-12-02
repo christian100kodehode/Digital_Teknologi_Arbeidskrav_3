@@ -1,4 +1,10 @@
-Arb Krav 3
+
+![alt text](Header.jpg)
+___
+Student: Christian Westbye
+___
+
+
 
 - Oppgave 1
 
@@ -15,11 +21,11 @@ Arb Krav 3
 
 (b)
 
-    Binærverditabell, totallsystem (grunntall = 2):
+    Binærverditabell, totallsystem (Grunntall = 2):
 
     Binær diagtabell som viser posisjon og verdi i hver bit i et 16-bit binært tall, fra høyre til venstre:
 
-    | Bit Posisjom  | 15    | 14    | 13   | 12   | 11   | 10   | 9    | 8    | 7    | 6    | 5    | 4    | 3    | 2     | 1     | 0    |
+    | Bit Posisjon  | 15    | 14    | 13   | 12   | 11   | 10   | 9    | 8    | 7    | 6    | 5    | 4    | 3    | 2     | 1     | 0    |
     | ------------  | ----  | ----  | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----  | ----  | ---- |
     | Decimal Verdi | 32768 | 16384 | 8192 | 4096 | 2048 | 1024 | 512 | 256   | 128  | 64   | 32   | 16   | 8    | 4     | 2     | 1    |
 
@@ -189,6 +195,7 @@ Utregning fra desimal til binær
 - Oppgave 3
 
 (a) Hva er OSI Modellen:
+
     OSI-modellen (Open Systems Interconnection model) er et standardisert (teoretisk) rammeverk som forteller hvordan data-kommunikasjon fungerer i et nettverk. Består av 7 lag, der hver del har sin oppgave og kommuniserer kun med det laget som er over og under seg for å sørge for korrekt data flyt.
 
 
