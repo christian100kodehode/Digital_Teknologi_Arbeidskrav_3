@@ -1,9 +1,9 @@
 
 ![alt text](Header.jpg)
 ___
-Student: Christian Westbye
+Student: Christian Westbye 
 ___
-
+[Github Repo.](https://github.com/christian100kodehode/Digital_Teknologi_Arbeidskrav_3)
 
 
 - Oppgave 1
