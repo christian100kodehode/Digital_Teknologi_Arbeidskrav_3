@@ -8,27 +8,31 @@ ___
 
 # Oppgave 1
 
-Musikk industrien.
+Musikkindustri: Fra fysisk til digital modell.
 
-Den digitale revolusjon har totalt forandret hvordan musikk benyttes, distribueres og handles. Dette har skjedd hurtig i de siste tjue åra med fokus på fysisk til digitale format.
+Den digitale revolusjonen har forandret hvordan musikk benyttes, distribueres og handles. Dette har skjedd svært raskt i løpet av de siste 20-30 år, med et klart skifte fra fysiske til digitale format.
 
-Man gikk fra vinyl, kasett og til CD`en på av 90tallet, med en stabil høy pris og en stor andel samlere/kjøpere. Musikk butikker fantes overalt, i både små og store byer. Musikk industrien solge godt og brukte mye ressurser på sine artister og produksjoner for å posisjonere seg i markedet. Distribusjons avtaler var viktig og dette avgjorde ofte hva du kunne finne i din lokale musikk butikk (både kjeder og selvstendige var vanlig.)
+Man hadde vinyl, kassett og til slutt CDer på 90-tallet, en stabil høy pris og en stor andel samlere og kjøpere. Musikkbutikker fantes overalt, både i små og store byer. Musikkindustrien solgte godt og brukte store ressurser på artister og produksjoner for å posisjonere seg i markedet. Distribusjonsavtaler var svært viktige og avgjorde ofte hva du fant i din lokale musikkbutikk – både kjeder og selvstendige butikker var vanlige.
 
-I slutten av 90 tallet, med internett som verktøy ble verden koblet sammen på en ny måte. Nå trengte man ikke kjøpe musikkblader fra utlandet for å få med seg nye artister og mulighetene for å finne nye artister utenfor de stor distribusjons nettverkene oppsto.
+Mot slutten av 1990-tallet koblet internett verden sammen på en helt ny måte. Plutselig trengte man ikke lenger kjøpe musikkblader fra utlandet for å oppdage nye artister, og mulighetene økte for å finne musikk utenfor de store distribusjonsnettverkeme.
 
-Med ny kraftig komprimering av musikk filer (mp3) kunne man plutselig laste ned musikk som før var for tungt (full audio cd 74minutt, 700MB) og tidkrevende for modem og isdn linjer (14.4kilobits per sekund eller ISDN med 64kilobits per sekund). Med en mp3 med 6kbs komprimering kunne et 45minutt album komme ned på 20MB.
+Med ny kraftig komprimering av musikk filer som kom for fullt på slutten av 90-tallet (mp3) kunne man plutselig laste ned musikk som før var for tung (full audio cd 74minutt, 700MB) og tidkrevende for modem og isdn linjer (14.4kilobits per sekund eller ISDN med 64kilobits per sekund). Med en mp3 med 64kbs komprimering kunne et 45minutt album komme ned på 20MB.
 
-Dette bidro også til cd brenning og kopiering av mange album/sanger på en cd. Dedikerte MP3 spillere som (feks. iPod) fortsatte trenden ved å la brukerene ha med seg hele samlinger med musikk i et lite lomme-format.
+Dette førte også til CD-brenning og kopiering av mange album/sanger på én enkelt CD. Dedikerte MP3-spillere, som for eksempel iPod, tok trenden videre ved å la folk ha med seg hele musikkbiblioteket i lomma.
 
-Diverse rettsaker pågikk rundt 2000tallet for å stoppe mye av fildelingen av musikk, mange tejenster ble lagt ned men kopieringen fortsatte med nye tjenester eller bare fra venner til venner lokalt.
+Rundt årtusenskiftet og utover 2000-tallet pågikk det mange rettssaker for å stoppe fildelingen. Flere tjenester ble stengt ned, men kopieringen fortsatte likevel – enten via nye tjenester eller bare ved at venner kopierte fra venner lokalt.
 
-Internett hastigheten ble raskere og raskere og mange firma begynte å eksperimentere med strømming av lyd og video direkte uten nedlastning.
+Internett ble raskere og raskere, og flere selskaper begynte å eksperimentere med strømming av lyd og video direkte, uten at nedlasting var nødvendig.
 
-I 2006 ble Spotify grunnlagt av to svensker, med et ønske om å tilby musikk på en lovlig måte, som både plateselskapene og lytterene ville være fornøyde med. Løsningen deres ble en abbonent løsning der en månedspris ga tilgang til all musikk tilgjengelig.
+I 2006 ble Spotify grunnlagt av to svensker som ville tilby musikk på en lovlig måte som både plateselskaper og lyttere kunne være fornøyde med. Løsningen ble en abonnementsmodell der en fast månedspris ga tilgang til å strømme (ikke laste ned) all tilgjengelig musikk på tjenesten.
 
-Denne modellen for å tilby alt for en månedspris ble brukt av mange etterhvert som kanskje mest kjent for film/tv Netflix.
+Denne modellen ble også brukt av mange andre tilbydere, kanskje mest kjent av Netflix for film og serier.
 
-Artister på slike løsninger som Spotify får betalt i en per avspiller basis (og per lokasjon, en lytter kan være mere verdt i noen deler av verden), men en stor kontrovers over små utbetalinger til mindre artister og store utbetalinger til dem med millioner av avspillinger på alle deres låter.
+Artister, musikere og plateselskaper (de som sitter på rettighetene) får på Spotify og lignende tjenester betalt per avspilling – og summen varierer avhengig av hvilket land lytteren er i. Kontroversen rundt små utbetalinger til mindre artister og enorme summer til de med millioner av avspillinger har pågått i mange år, uten at modellen har blitt endret.
+
+I de seneste årene har også fysiske format fått et comeback, spesielt vinyl og til dels kassetter men i et mye mindre volum enn tidligere storhetstider. De selges ofte direkte fra artister eller plateselskaper, siden det er få musikkbutikker  og distribusjonen er begrenset.
+
+Digital strømming er i 2025 normalen på lytting av musikk, og mange bruker bare telefon koblet på nett til å strømme direkte fra sin tilbyder.
 
 
 
@@ -263,3 +267,4 @@ Artister på slike løsninger som Spotify får betalt i en per avspiller basis (
 
 
 
+# 
