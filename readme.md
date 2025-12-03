@@ -6,20 +6,41 @@ ___
 [Github Repo.](https://github.com/christian100kodehode/Digital_Teknologi_Arbeidskrav_3)
 
 
-- Oppgave 1
+# Oppgave 1
+
+Musikk industrien.
+
+Den digitale revolusjon har totalt forandret hvordan musikk benyttes, distribueres og handles. Dette har skjedd hurtig i de siste tjue åra med fokus på fysisk til digitale format.
+
+Man gikk fra vinyl, kasett og til CD`en på av 90tallet, med en stabil høy pris og en stor andel samlere/kjøpere. Musikk butikker fantes overalt, i både små og store byer. Musikk industrien solge godt og brukte mye ressurser på sine artister og produksjoner for å posisjonere seg i markedet. Distribusjons avtaler var viktig og dette avgjorde ofte hva du kunne finne i din lokale musikk butikk (både kjeder og selvstendige var vanlig.)
+
+I slutten av 90 tallet, med internett som verktøy ble verden koblet sammen på en ny måte. Nå trengte man ikke kjøpe musikkblader fra utlandet for å få med seg nye artister og mulighetene for å finne nye artister utenfor de stor distribusjons nettverkene oppsto.
+
+Med ny kraftig komprimering av musikk filer (mp3) kunne man plutselig laste ned musikk som før var for tungt (full audio cd 74minutt, 700MB) og tidkrevende for modem og isdn linjer (14.4kilobits per sekund eller ISDN med 64kilobits per sekund). Med en mp3 med 6kbs komprimering kunne et 45minutt album komme ned på 20MB.
+
+Dette bidro også til cd brenning og kopiering av mange album/sanger på en cd. Dedikerte MP3 spillere som (feks. iPod) fortsatte trenden ved å la brukerene ha med seg hele samlinger med musikk i et lite lomme-format.
+
+Diverse rettsaker pågikk rundt 2000tallet for å stoppe mye av fildelingen av musikk, mange tejenster ble lagt ned men kopieringen fortsatte med nye tjenester eller bare fra venner til venner lokalt.
+
+Internett hastigheten ble raskere og raskere og mange firma begynte å eksperimentere med strømming av lyd og video direkte uten nedlastning.
+
+I 2006 ble Spotify grunnlagt av to svensker, med et ønske om å tilby musikk på en lovlig måte, som både plateselskapene og lytterene ville være fornøyde med. Løsningen deres ble en abbonent løsning der en månedspris ga tilgang til all musikk tilgjengelig.
+
+Denne modellen for å tilby alt for en månedspris ble brukt av mange etterhvert som kanskje mest kjent for film/tv Netflix.
+
+Artister på slike løsninger som Spotify får betalt i en per avspiller basis (og per lokasjon, en lytter kan være mere verdt i noen deler av verden), men en stor kontrovers over små utbetalinger til mindre artister og store utbetalinger til dem med millioner av avspillinger på alle deres låter.
 
 
-- Oppgave 2
 
-
-(a)
+# Oppgave 2
+## (a)
 
     Forklaring:
     bit - Minste verdi for en datamaskin, kan kun være 0 eller 1.
     byte - Verdi satt sammen av 8 bit (0 - 7). Med en byte kan vi sette et tegn eller nummer fra ASCII tabellen.
 
 
-(b)
+## (b)
 
     Binærverditabell, totallsystem (Grunntall = 2):
 
@@ -32,7 +53,7 @@ ___
 
 
 
-Utregning fra desimal til binær
+## Utregning fra desimal til binær
 
     (A) 12
 
@@ -79,7 +100,7 @@ Utregning fra desimal til binær
 
 
 
-(c) Konverter fra binær til desimal
+## (c) Konverter fra binær til desimal
         binær = 101110
     
         | Posisjon      | 5   |  4  | 3  | 2  | 1   | 0  |
@@ -124,7 +145,8 @@ Utregning fra desimal til binær
 
 
 
-(d) Konverter teksten "DATA" fra ASCII til binær:
+## (d) Konverter teksten "DATA" fra ASCII til binær:
+
 
     01000100 01000001 01010100 01000001
 
@@ -192,15 +214,15 @@ Utregning fra desimal til binær
 
 
 
-- Oppgave 3
+# Oppgave 3
 
-(a) Hva er OSI Modellen:
+## (a) Hva er OSI Modellen:
 
     OSI-modellen (Open Systems Interconnection model) er et standardisert (teoretisk) rammeverk som forteller hvordan data-kommunikasjon fungerer i et nettverk. Består av 7 lag, der hver del har sin oppgave og kommuniserer kun med det laget som er over og under seg for å sørge for korrekt data flyt.
 
 
 
-(b) Beskriv Lag 2 - Datalinklaget og Lag 3 - Nettverkslaget.
+## (b) Beskriv Lag 2 - Datalinklaget og Lag 3 - Nettverkslaget.
 
     Lag 3: Nettverkslaget (Network Layer)  IP-adresser, ruting  
 
@@ -214,21 +236,30 @@ Utregning fra desimal til binær
 
 
 
-(c) Forklar hvordan OSI modellen kan hjelpe teknikere å feilsøke nettverksproblem
+##  (c) Forklar hvordan OSI modellen kan hjelpe teknikere å feilsøke nettverksproblem
 
      OSI modellen deler kommunikasjonen inn i 7 lag, hver med definerte oppgaver. Hvert lag kommuniserer kun med laget rett over og under seg som igjen gjør det enklere å forstå og feilsøke nettverks problemer og se hvor feilen har oppstått. Ved å jobbe seg oppover/nedover lagene og teste underveis, kan man lettere finne årsåkan og finne hvor problemet ligger.
 
 
 
 
-- Oppgav 4
+# Oppgav 4
 
-(a) Forklar RAM og ytelse, hva skjer når minnet er fullt.
+## (a) Forklar RAM og ytelse, hva skjer når minnet er fullt.
 
+    Ram (Random Access Memory) er datamaskinens minne som brukes etter behov/setup fra operativsystem og applikasjoner. Det er ett høyhastigighets område for lagring av data som maskinen aktivt bruker. Rask tilgang, flytting og prossesering av store mengder data blir da mulig.
 
+    Ram kjører på mye høyere lese/skrive hastighet mot en harddisk/sdd, jo mere ram du har jo mer data kan kjøres direkte fra minnet og mindre deler hentes opp fra harddisk/ssd.
 
-(b) Oppgradere ram men eldre CPU, hvilke flaskehalser kan oppstå.
+    Er minnet fullt blir deler av harddisk/ssd brukt som minne (virtual memory). Harddisk/ssd er ikke like rask som minnet og applikasjoner/operativsystem vil da ikke ha samme ytelse og hastighet som om man hadde nok fysisk minne ledig. Denne prosessen blir kallet swapping eller paging.
 
+    Har man ingen diskplass og ram igjen så kan man oppleve at systemet står/fryser og/eller applikasjon kan avslutte eller krasje for å så å frigjøre minne (henger applikasjonen kan man måtte avslutte manuelt for å frigi minnet).
+
+## (b) Oppgradere ram men eldre CPU, hvilke flaskehalser kan oppstå.
+
+    Man kan oppleve at man ikke får utnyttet hastigheten på ram brikker viss minne kontrolleren i denne eldre cpu ikke støtter denne hyøere hastighet, man må også passe på å kjøpe en rett ram type til sitt hovedkort. Har man opplevd at minnet ble fullt ofte før oppgradering av minnet vil man oppleve at maskinen er raskere siden man vil slippe å bruke for mye virtuellt minne og harddisk/ssd som må flytte på data. 
+    
+    Selve regneoperasjoner vil ikke få høyere hastighet i seg selv med en slik oppgradering (ny cpu trengs da).
 
 
 
